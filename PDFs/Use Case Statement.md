@@ -35,7 +35,7 @@
 1. If the student clicks on the test to take it the system will prompt them for their student credential, which is their login information.
 1. Once the teacher and/or student have completed they will exit the application.
 
-**Alternate Flow **
+**Alternate Flow**
 * The teacher has an issue uploading a test
 	1. The teacher selects the 'Select for help' button.
 	1. Once selected it notifies the programmer of the issue.
