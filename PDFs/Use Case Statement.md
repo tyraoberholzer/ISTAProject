@@ -1,8 +1,8 @@
 # <center> Use Case: @ Home Testing Application</c>
 
-*Tyra Oberholzer*
+***Tyra Oberholzer***
 
-*August 16, 2020*
+***August 16, 2020***
 
 
 **Actors**
