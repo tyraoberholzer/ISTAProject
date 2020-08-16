@@ -1,30 +1,30 @@
-#Use Case: @ Home Testing Application
+# <center> Use Case: @ Home Testing Application</c>
 
-##Tyra Oberholzer
-##August 16, 2020
+**Tyra Oberholzer**
+**August 16, 2020**
 
-###Actors
+**Actors**
 * Users
 * Teachers
 * Students
 * Tests
 * Programmer
 
-###Triggers 
+**Triggers**
 * Teacher has issues uploading test to application.
 * Student has issues taking test.
 * Teacher has issues pushing test to specific student.
 
-###Pre-Conditions
+**Pre-Conditions**
 * Teachers must have an account in order to upload a test.
 * Students must have an account in order to take test and/or see their grades.
 * There must be a test uploaded in order to take a test.
 
-###Post-Conditions
+**Post-Conditions**
 * Teachers are able to submit tests and/or look at students grades.
 * Students are able to take tests and/or look at their grades.
 
-###Normal Flow
+**Normal Flow**
 1. The user select whether they are a teacher or student.
 1. After selection the student/teacher creates an account.
 1. The user can now log on at any point.
@@ -35,7 +35,7 @@
 1. If the student clicks on the test to take it the system will prompt them for their student credential, which is their login information.
 1. Once the teacher and/or student have completed they will exit the application.
 
-###Alternate Flow 
+**Alternate Flow **
 * The teacher has an issue uploading a test
 	1. The teacher selects the 'Select for help' button.
 	1. Once selected it notifies the programmer of the issue.
