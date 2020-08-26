@@ -1,5 +1,6 @@
-#<center>The @ Home Testing App User Requirements</center>
+# <center>The @ Home Testing App User Requirements</center>
 
+***Tyra Oberholzer***
 
 R1 - Each user needs to be able to enter personal information about themselves.
 
